@@ -7,4 +7,7 @@
 
 
 ### Covariate Shift
+* [ ] Zhang, Tianyi, Ikko Yamane, Nan Lu, and Masashi Sugiyama. 2020. “A One-Step Approach to Covariate Shift Adaptation.” arXiv [cs.LG]. arXiv. http://proceedings.mlr.press/v129/zhang20a/zhang20a.pdf.
+* [ ] Yamada, Makoto, Taiji Suzuki, Takafumi Kanamori, Hirotaka Hachiya, and Masashi Sugiyama. 2011. “Relative Density-Ratio Estimation for Robust Distribution Comparison.” In Advances in Neural Information Processing Systems, edited by J. Shawe-Taylor, R. Zemel, P. Bartlett, F. Pereira, and K. Q. Weinberger, 24:594–602. Curran Associates, Inc.
+* [ ] Cortes, Corinna, Mehryar Mohri, Michael Riley, and Afshin Rostamizadeh. 2008. “Sample Selection Bias Correction Theory.” In Algorithmic Learning Theory, 38–53. Springer Berlin Heidelberg.
 * [X] Shimodaira, Hidetoshi. 2000. “Improving Predictive Inference under Covariate Shift by Weighting the Log-Likelihood Function.” Journal of Statistical Planning and Inference 90 (2): 227–44.
