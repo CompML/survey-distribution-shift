@@ -19,7 +19,7 @@
 
 
 ## Covariate Shift
-* [ ] Reisizadeh, Amirhossein, et al. "Robust Federated Learning: The Case of Affine Distribution Shifts." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [x] Reisizadeh, Amirhossein, et al. "Robust Federated Learning: The Case of Affine Distribution Shifts." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Fang, Tongtong, et al. "Rethinking Importance Weighting for Deep Learning under Distribution Shift." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [ ] Schneider, Steffen, et al. "Improving robustness against common corruptions by covariate shift adaptation." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020
 * [ ] Zhang, Tianyi, Ikko Yamane, Nan Lu, and Masashi Sugiyama. 2020. “A One-Step Approach to Covariate Shift Adaptation.” arXiv [cs.LG]. arXiv. http://proceedings.mlr.press/v129/zhang20a/zhang20a.pdf.
