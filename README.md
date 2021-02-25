@@ -32,10 +32,10 @@
 
 ## Out-Of-Distribution Detection
 * [x] Tack, Jihoon, et al. "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
-* [ ] Teney, Damien, et al. "On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
-* [ ] Jeong, Taewon, and Heeyoung Kim. "OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
-* [ ] Nandy, Jay, Wynne Hsu, and Mong Li Lee. "Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
-* [ ] Bitterwolf, Julian, Alexander Meinke, and Matthias Hein. "Certifiably Adversarially Robust Detection of Out-of-Distribution Data." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [x] Teney, Damien, et al. "On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [x] Jeong, Taewon, and Heeyoung Kim. "OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [x] Nandy, Jay, Wynne Hsu, and Mong Li Lee. "Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [x] Bitterwolf, Julian, Alexander Meinke, and Matthias Hein. "Certifiably Adversarially Robust Detection of Out-of-Distribution Data." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Kirichenko, Polina, Pavel Izmailov, and Andrew Gordon Wilson. "Why normalizing flows fail to detect out-of-distribution data." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Xiao, Zhisheng, Qing Yan, and Yali Amit. "Likelihood regret: An out-of-distribution detection score for variational auto-encoder." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Liu, Weitang, et al. "Energy-based Out-of-distribution Detection." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
