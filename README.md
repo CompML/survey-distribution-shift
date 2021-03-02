@@ -25,9 +25,16 @@
 * [x] Fang, Tongtong, et al. "Rethinking Importance Weighting for Deep Learning under Distribution Shift." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [ ] Schneider, Steffen, et al. "Improving robustness against common corruptions by covariate shift adaptation." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020
 * [ ] Zhang, Tianyi, Ikko Yamane, Nan Lu, and Masashi Sugiyama. 2020. “A One-Step Approach to Covariate Shift Adaptation.” arXiv [cs.LG]. arXiv. http://proceedings.mlr.press/v129/zhang20a/zhang20a.pdf.
+* [ ] Tibshirani, Ryan J., Rina Foygel Barber, Emmanuel J. Candes, and Aaditya Ramdas. 2019. “Conformal Prediction Under Covariate Shift.” arXiv [stat.ME]. arXiv. http://arxiv.org/abs/1904.06019.
 * [ ] Yamada, Makoto, Taiji Suzuki, Takafumi Kanamori, Hirotaka Hachiya, and Masashi Sugiyama. 2011. “Relative Density-Ratio Estimation for Robust Distribution Comparison.” In Advances in Neural Information Processing Systems, edited by J. Shawe-Taylor, R. Zemel, P. Bartlett, F. Pereira, and K. Q. Weinberger, 24:594–602. Curran Associates, Inc.
 * [ ] Cortes, Corinna, Mehryar Mohri, Michael Riley, and Afshin Rostamizadeh. 2008. “Sample Selection Bias Correction Theory.” In Algorithmic Learning Theory, 38–53. Springer Berlin Heidelberg.
+* [ ] Sugiyama, Masashi, Shinichi Nakajima, Hisashi Kashima, Paul Von Buenau, and Motoaki Kawanabe. 2007. “Direct Importance Estimation with Model Selection and Its Application to Covariate Shift Adaptation.” In NIPS, 7:1433–40. Citeseer.
 * [X] Shimodaira, Hidetoshi. 2000. “Improving Predictive Inference under Covariate Shift by Weighting the Log-Likelihood Function.” Journal of Statistical Planning and Inference 90 (2): 227–44.
+
+## Target Shift
+* [ ] Redko, Ievgen, Nicolas Courty, Rémi Flamary, and Devis Tuia. 2019. “Optimal Transport for Multi-Source Domain Adaptation under Target Shift.” In Proceedings of Machine Learning Research, edited by Kamalika Chaudhuri and Masashi Sugiyama, 89:849–58. Proceedings of Machine Learning Research. PMLR.
+* [ ] Azizzadenesheli, Kamyar, Anqi Liu, Fanny Yang, and Animashree Anandkumar. 2019. “Regularized Learning for Domain Adaptation under Label Shifts.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1903.09734.
+* [ ] Lipton, Zachary, Yu-Xiang Wang, and Alexander Smola. 2018. “Detecting and Correcting for Label Shift with Black Box Predictors.” In Proceedings of the 35th International Conference on Machine Learning, edited by Jennifer Dy and Andreas Krause, 80:3122–30. Proceedings of Machine Learning Research. Stockholmsmässan, Stockholm Sweden: PMLR.
 
 ## Distribution Shift Detection
 * [x] Kulinski, Sean, Saurabh Bagchi, and David I. Inouye. "Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Tests." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
