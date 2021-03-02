@@ -1,6 +1,8 @@
 # Survey for Distribution Shift
 
 ## Domain Adaptation
+* [ ] Cai, Ruichu, et al. "Time Series Domain Adaptation via Sparse Associative Structure Alignment." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. 2020.
+* [ ] Liu, Xiaofeng, et al. "Subtype-aware Unsupervised Domain Adaptation for Medical Diagnosis." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. 2020.
 * [x] Tachet des Combes, Remi, et al. "Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Chen, Yining, et al. "Self-training Avoids Using Spurious Features Under Domain Shift." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 * [x] Kang, Guoliang, et al. "Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
