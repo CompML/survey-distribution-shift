@@ -57,3 +57,4 @@
 
 ## Meta-Analysis
 * [x] Taori, Rohan, et al. "Measuring robustness to natural distribution shifts in image classification." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [ ] Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. 2021. “Evaluating Model Robustness to Dataset Shift.” In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. http://arxiv.org/abs/2010.15100.
