@@ -60,3 +60,4 @@
 
 ## Distributionally Robust Optimization (DRO)
 * [x] Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. 2021. “Evaluating Model Robustness to Dataset Shift.” In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. http://arxiv.org/abs/2010.15100.
+* [x] Levy, Daniel, et al. "Large-Scale Methods for Distributionally Robust Optimization." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
