@@ -59,8 +59,14 @@
 * [x] Taori, Rohan, et al. "Measuring robustness to natural distribution shifts in image classification." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
 
 ## Distributionally Robust Optimization (DRO)
+* [ ] Duchi, John C., Peter W. Glynn, and Hongseok Namkoong. "Statistics of robust optimization: A generalized empirical likelihood approach." Mathematics of Operations Research (2021).
 * [x] Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. 2021. “Evaluating Model Robustness to Dataset Shift.” In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. http://arxiv.org/abs/2010.15100.
 * [x] Levy, Daniel, et al. "Large-Scale Methods for Distributionally Robust Optimization." 34th Conference on Neural Information Processing Systems (NeurIPS) 2020. Neural Information Processing Systems, 2020.
+* [ ] Lei, Jing. "Convergence and concentration of empirical measures under Wasserstein distance in unbounded functional spaces." Bernoulli 26.1 (2020): 767-798.
+* [ ] Duchi, John, and Hongseok Namkoong. "Variance-based regularization with convex objectives." The Journal of Machine Learning Research 20.1 (2019): 2450-2504.
+* [ ] Bertsimas, Dimitris, Vishal Gupta, and Nathan Kallus. "Data-driven robust optimization." Mathematical Programming 167.2 (2018): 235-292.
+* [ ] Namkoong, Hongseok, and John C. Duchi. "Stochastic Gradient Methods for Distributionally Robust Optimization with f-divergences." NIPS. Vol. 29. 2016.
+* [ ] Ben-Tal, Aharon, et al. "Robust solutions of optimization problems affected by uncertain probabilities." Management Science 59.2 (2013): 341-357.
 
 ## Stability Analysis
 * [ ] [Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. "Evaluating Model Robustness and Stability to Dataset Shift." International Conference on Artificial Intelligence and Statistics. PMLR, 2021.](http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf)
