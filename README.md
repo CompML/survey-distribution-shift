@@ -69,4 +69,4 @@
 * [ ] Ben-Tal, Aharon, et al. "Robust solutions of optimization problems affected by uncertain probabilities." Management Science 59.2 (2013): 341-357.
 
 ## Stability Analysis
-* [ ] [Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. "Evaluating Model Robustness and Stability to Dataset Shift." International Conference on Artificial Intelligence and Statistics. PMLR, 2021.](http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf)
+* [X] [Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. "Evaluating Model Robustness and Stability to Dataset Shift." International Conference on Artificial Intelligence and Statistics. PMLR, 2021.](http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf)
