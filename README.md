@@ -65,8 +65,13 @@
 * [ ] Lei, Jing. "Convergence and concentration of empirical measures under Wasserstein distance in unbounded functional spaces." Bernoulli 26.1 (2020): 767-798.
 * [ ] Duchi, John, and Hongseok Namkoong. "Variance-based regularization with convex objectives." The Journal of Machine Learning Research 20.1 (2019): 2450-2504.
 * [ ] Bertsimas, Dimitris, Vishal Gupta, and Nathan Kallus. "Data-driven robust optimization." Mathematical Programming 167.2 (2018): 235-292.
+* [ ] Esfahani, Peyman Mohajerin, and Daniel Kuhn. "Data-driven distributionally robust optimization using the Wasserstein metric: Performance guarantees and tractable reformulations." Mathematical Programming 171.1 (2018): 115-166.
+* [ ] Gao, Rui, and Anton J. Kleywegt. "Distributionally robust stochastic optimization with Wasserstein distance." arXiv preprint arXiv:1604.02199 (2016).
 * [ ] Namkoong, Hongseok, and John C. Duchi. "Stochastic Gradient Methods for Distributionally Robust Optimization with f-divergences." NIPS. Vol. 29. 2016.
 * [ ] Ben-Tal, Aharon, et al. "Robust solutions of optimization problems affected by uncertain probabilities." Management Science 59.2 (2013): 341-357.
+
+### Survey
+* [ ] Gabrel, Virginie, Cécile Murat, and Aurélie Thiele. "Recent advances in robust optimization: An overview." European journal of operational research 235.3 (2014): 471-483.
 
 ## Stability Analysis
 * [X] [Subbaswamy, Adarsh, Roy Adams, and Suchi Saria. "Evaluating Model Robustness and Stability to Dataset Shift." International Conference on Artificial Intelligence and Statistics. PMLR, 2021.](http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf)
